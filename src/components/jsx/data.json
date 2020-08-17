@@ -1,0 +1,61 @@
+{
+   "FirstName": "Dibakar",
+   "LastName": "Mitra",
+   "Home": "<Dibakar/>",
+   "devDesc": " Engineer | Programmer | Web Developer ",
+   "ProfileImage": "https://instagram.fccu5-1.fna.fbcdn.net/v/t51.2885-19/s150x150/20987378_172452069966536_5706977742050820096_a.jpg?_nc_ht=instagram.fccu5-1.fna.fbcdn.net&_nc_ohc=nBT6Xg6WWFYAX9A6SOT&oh=c5f85a48b5ced52d820754f6d1c909d0&oe=5F62D846",
+   "Email": "mitradibakar@outlook.com",
+   "ResumeLink": "/resume.pdf",
+   "Hobby": "#coding #gaming #teatable #sports #music",
+   "leadDesc": "I'm currently looking for full-time Software Engineering opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at, ",
+   "leadFooter": "Feel free to use this template to your open source project",
+   "socials": [
+      {
+         "id": 1,
+         "image": "fa-facebook",
+         "url": "https://www.facebook.com/mitradibakar"
+      },
+      {
+         "id": 2,
+         "image": "fa-instagram",
+         "url": "https://www.instagram.com/mitradibakar"
+      },
+      {
+         "id": 3,
+         "image": "fa-twitter",
+         "url": "https://www.twitter.com/_mitradibakar"
+      },
+      {
+         "id": 4,
+         "image": "fa-github",
+         "url": "https://github.com/dibakarmitra"
+      },
+      {
+         "id": 5,
+         "image": "fa-linkedin",
+         "url": "https://www.linkedin.com/in/dibakarmitra"
+      }
+   ],
+   "navLinks": [
+      {
+         "id": 1,
+         "title": "Home",
+         "url": "/"
+      },
+      {
+         "id": 2,
+         "title": "Projects",
+         "url": "/projects"
+      },
+      {
+         "id": 3,
+         "title": "Skills",
+         "url": "/skills"
+      },
+      {
+         "id": 4,
+         "title": "Resume",
+         "url": "/resume.pdf"
+      }
+   ]
+}
