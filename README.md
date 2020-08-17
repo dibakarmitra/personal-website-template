@@ -1,6 +1,6 @@
 My portfolio site.
 
-Using react, adios & bootstrap.
+Using react, axios & bootstrap.
 
 configure the components/jsx/data.json to use this template.
 
