@@ -1,5 +1,7 @@
 My portfolio site.
 
+Using react, adios & bootstrap.
+
 configure the components/jsx/data.json to use this template.
 
 [www.dibakarmitra.com](www.dibakarmitra.com)
