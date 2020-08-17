@@ -2,6 +2,9 @@ My portfolio site.
 
 configure the components/jsx/data.json to use this template.
 
+[www.dibakarmitra.com](www.dibakarmitra.com)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
